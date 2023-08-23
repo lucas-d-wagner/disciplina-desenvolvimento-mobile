@@ -1,0 +1,28 @@
+name: aula_23_08
+description: Aula 23/08. Criar um app flutter com 3 telas. Primeira tela de bem vindo com uma logo. Segunda tela uma calculadora. Terceira tela um formulário com nome, telefone. Ao clicar no botão enviar deve mostrar as informações na tela, abaixo do formulário.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.3 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/doge_image.png
