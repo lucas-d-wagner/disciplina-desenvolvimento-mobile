@@ -14,6 +14,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   http: ^0.13.6
   get: ^4.6.5
+  money2: ^3.1.2
 
 dev_dependencies:
   flutter_test:
@@ -24,3 +25,23 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
+
+  assets:
+    - assets/images/doge_image.png
+    - assets/imagens-moedas/AUD.png
+    - assets/imagens-moedas/BRL.png
+    - assets/imagens-moedas/CAD.png
+    - assets/imagens-moedas/CHF.png
+    - assets/imagens-moedas/CNY.png
+    - assets/imagens-moedas/CZK.png
+    - assets/imagens-moedas/EUR.png
+    - assets/imagens-moedas/GBP.png
+    - assets/imagens-moedas/INR.png
+    - assets/imagens-moedas/JPY.png
+    - assets/imagens-moedas/KRW.png
+    - assets/imagens-moedas/NZD.png
+    - assets/imagens-moedas/PLN.png
+    - assets/imagens-moedas/RUB.png
+    - assets/imagens-moedas/TRY.png
+    - assets/imagens-moedas/TWD.png
+    - assets/imagens-moedas/USD.png
